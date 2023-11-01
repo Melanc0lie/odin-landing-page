@@ -160,3 +160,7 @@ body{
 #tea{
     width:300px;
 }
+.text-tea{
+    display: flex;
+    justify-content: center;
+}
